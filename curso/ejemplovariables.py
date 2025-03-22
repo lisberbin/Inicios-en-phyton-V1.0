@@ -9,13 +9,13 @@ print(var2)
 #Los nombres de las variables en Pythonpueden tener cualquier longitud y
 # pueden consistir en letras mayúsculas y minúsculas (A-Z, a-z), dígitos (0-9) y
 # el carácter de subrayado (_). Cualquier otro carácter dará error:
-2var& = "Hola mundo"
+#2var& = "Hola mundo"
 #Aunque el nombre de una variable puede contener dígitos, el primer carácter de
 # un nombre de variable no puede ser un dígito.
 var = "Hola mundo"
 #El nombre de las variables en Python essensible a mayúsculas y minúsculas
-Var3 = "Hola mundo"
-print(var3) #Error, no se encuentra var3
+#Var3 = "Hola mundo"
+#print(var3) #Error, no se encuentra var3
 # Declaración de variable numérica entera:
 n_edad = 47
 
